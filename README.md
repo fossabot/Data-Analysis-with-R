@@ -1,4 +1,6 @@
 # Data-Analysis-with-R
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwaliori%2FData-Analysis-with-R.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwaliori%2FData-Analysis-with-R?ref=badge_shield)
+
 This repository contains my exploratory data analysis projects using R. All source code can be found here.
 
 * [Financial Contributions to 2016 Presidential Campaigns in Massachusetts](https://rpubs.com/susan_li/255437)
@@ -27,3 +29,7 @@ This repository contains my exploratory data analysis projects using R. All sour
 * [Statistical Inference with the General Social Survey Data](https://susanli2016.github.io/Inferential-Statistics/)
 * [Modeling and Prediction for Movies](https://susanli2016.github.io/Modeling-Prediction-Movies/)
 * [Topic Modeling of New York Times Articles](https://susanli2016.github.io/New-York-Times-Articles/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwaliori%2FData-Analysis-with-R.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwaliori%2FData-Analysis-with-R?ref=badge_large)
